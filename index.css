@@ -1,0 +1,153 @@
+* {
+    padding: 10px;
+    background-color: rgb(3, 3, 3);
+}
+.nav-container{
+   background-color: black;
+    display: flex;
+    color: white;
+}
+.left{
+   
+    display: flex;
+    align-items: center;
+    margin-left: 25px;
+}
+.middle{
+
+    margin:10px;
+    text-align: center;
+    padding-left: 250px;
+    gap: 80px;
+}
+.right{
+    padding-inline-start: 40px;
+    margin-left: 100px;
+}
+.container {
+    
+    color:white;
+    margin-top: 40px;
+    background: url(https://kauveryhospital.com/blog/wp-content/uploads/2021/04/pizza-5179939_960_720.jpg) no-repeat center center/cover;
+    width: 1370px;
+    height: 600px;
+    font-size: x-large;
+    
+    
+  } 
+.container > h1 {
+    background-color: transparent;
+    
+    margin: 80px;
+
+}
+.container > p {
+    background-color: transparent;
+    word-wrap: break-word;
+   
+    margin: 80px;
+   
+}
+
+.heading2 {
+    text-align: center;
+    align-items: center;
+    color: white; 
+
+    
+}
+
+.font{
+    display:flex;
+    gap: 300px;
+}
+
+.font > p{
+    align-items: center;
+    color:white;
+    font-size:large;
+    word-wrap: break-word;
+    height: auto;
+    width: 400px;  
+       
+}
+
+
+.menu > h3{
+    color:white;
+    align-items: center;
+    text-align: center;
+    font-size: larger;
+    
+}
+.menu > p{
+    align-items: center;
+    text-align: center;
+    color: white;
+    word-wrap: break-word;
+   
+}
+.card{
+    display: flex;
+    flex-flow: row wrap;
+    gap: 50px;
+    margin-left: 230px;
+    word-wrap: break-word;
+    color:white;
+}
+
+.card1 > p {
+    inline-size: 150px;
+    overflow-wrap: break-word;
+    border: 50px;
+    
+}
+.card2 > p {
+    inline-size: 150px;
+    overflow-wrap: break-word;
+    border: 50px;
+    
+}
+.card3 > p {
+    inline-size: 150px;
+    overflow-wrap: break-word;
+    border: 50px;
+    
+}
+.card4 > p {
+    inline-size: 150px;
+    overflow-wrap: break-word;
+    border: 50px;
+    
+}
+.card5 > p {
+    inline-size: 150px;
+    overflow-wrap: break-word;
+
+    
+}
+.card6 > p {
+    inline-size: 150px;
+    overflow-wrap: break-word;
+    border: 50px;
+    
+}
+.heading4{
+    color:white;
+    align-items: center;
+    text-align: center;
+    text: size 40px;
+}
+.map{
+    color:white;
+    display:flex;
+    
+}
+
+.footer{
+    display: flex;
+    color: white;
+    align-items: center;
+    gap: 800px;
+}
+
